@@ -4,3 +4,7 @@ def dylan():
 
 def theo():
     return "test"
+    
+
+def dylan2():
+    return "dylan2"
