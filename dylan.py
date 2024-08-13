@@ -9,4 +9,7 @@ def theo():
 def dylan2():
     return "dylan2"
 
+def dyman3():
+    return "ok"
+
 x=4
